@@ -1,0 +1,543 @@
+{
+  "HTML": [
+    {
+      "title": "Why We Use <br> Element",
+      "answer_1": "To Make Text Bold",
+      "answer_2": "To Make Text Italic",
+      "answer_3": "To Add Breakline",
+      "answer_4": "To Create Horizontal Line",
+      "right_answer": "To Add Breakline"
+    },
+    {
+      "title": "Is <img> Element Has Attribute href",
+      "answer_1": "Yes",
+      "answer_2": "No Its For Anchor Tag <a>",
+      "answer_3": "All Elements Has This Attribute",
+      "answer_4": "Answer 1 And 3 Is Right",
+      "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+      "title": "How Can We Make Element Text Bold",
+      "answer_1": "Putting It Inside <b> Tag",
+      "answer_2": "Putting It Inside <strong> Tag",
+      "answer_3": "Customizing It With Font-Weight Property In CSS",
+      "answer_4": "All Answers Is Right",
+      "right_answer": "All Answers Is Right"
+    },
+    {
+      "title": "What Is The Right Hierarchy For Creating Part Of Page",
+      "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+      "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+      "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+      "answer_4": "All Solutions Is Wrong",
+      "right_answer": "All Solutions Is Wrong"
+    },
+    {
+      "title": "How Can We Include External Page Inside Our HTML Page",
+      "answer_1": "By Using Include in HTML",
+      "answer_2": "By Using Load In HTML",
+      "answer_3": "By Using iFrame Tag",
+      "answer_4": "All Solutions Is Wrong",
+      "right_answer": "By Using iFrame Tag"
+    },
+    {
+      "title": "What Is The Tag That Not Exists in HTML",
+      "answer_1": "<object>",
+      "answer_2": "<basefont>",
+      "answer_3": "<abbr>",
+      "answer_4": "All Tags Is Exists in HTML",
+      "right_answer": "All Tags Is Exists in HTML"
+    },
+    {
+      "title": "How We Specify Document Type Of HTML5 Page",
+      "answer_1": "<DOCTYPE html>",
+      "answer_2": "<DOCTYPE html5>",
+      "answer_3": "<!DOCTYPE html5>",
+      "answer_4": "<!DOCTYPE html>",
+      "right_answer": "<!DOCTYPE html>"
+    },
+    {
+      "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+      "answer_1": "<article>",
+      "answer_2": "<section>",
+      "answer_3": "<blockquote>",
+      "answer_4": "<aside>",
+      "right_answer": "<blockquote>"
+    },
+    {
+      "title": "In HTML Can We Use This Way To Add Attributes",
+      "answer_1": "<div class='class-name'>",
+      "answer_2": "<div class=class-name>",
+      "answer_3": "<div class=\"class-name\">",
+      "answer_4": "All Is Right",
+      "right_answer": "All Is Right"
+    }
+  ],
+  "Javascript": [
+    {
+      "title": "Inside which HTML element do we put the JavaScript",
+      "answer_1": "<js>",
+      "answer_2": "<scripting>",
+      "answer_3": "<javascript>",
+      "answer_4": "<script>",
+      "right_answer": "<script>"
+    },
+    {
+      "title": "Where is the correct place to insert a JavaScript ",
+      "answer_1": "The <body> Section",
+      "answer_2": "The <head> Section",
+      "answer_3": "Both The <body> And <head> Are Correct",
+      "answer_4": "Noting",
+      "right_answer": "Both The <body> And <head> Are Correct"
+    },
+    {
+      "title": "What is the correct syntax for referring to an external script called 'xxx.js' ",
+      "answer_1": "<script href='xxx.js'>",
+      "answer_2": "<script src='xxx.js'>",
+      "answer_3": "<script name='xxx.js'>",
+      "answer_4": "<script 'xxx.js'",
+      "right_answer": "<script src='xxx.js'>"
+    },
+    {
+      "title": "How do you write 'Hello World' in an alert box",
+      "answer_1": "msg('Hello World')",
+      "answer_2": "prompet('Hello World')",
+      "answer_3": "confirm('Hello World')",
+      "answer_4": "alert('Hello World')",
+      "right_answer": "alert('Hello World')"
+    },
+    {
+      "title": "How do you create a function in JavaScript ",
+      "answer_1": "function nameFunction( ) { }",
+      "answer_2": "function = function( )",
+      "answer_3": "function:myFunction( ) { }",
+      "answer_4": "function( ) = function { }",
+      "right_answer": "function nameFunction( ) { }"
+    },
+    {
+      "title": "How do you call a function named 'myFunction'",
+      "answer_1": "call function myFunction()",
+      "answer_2": "myFunction( )",
+      "answer_3": "call myFunction( )",
+      "answer_4": "Noting",
+      "right_answer": "myFunction( )"
+    },
+    {
+      "title": "How to write an IF statement in JavaScript",
+      "answer_1": "if ( ) [ ]",
+      "answer_2": "if ( ) { }",
+      "answer_3": "( ) => { }",
+      "answer_4": "if { ( ) }",
+      "right_answer": "if ( ) { }"
+    },
+    {
+      "title": "Which One We Can Use it For Looping ",
+      "answer_1": "for ( ) { }",
+      "answer_2": "while( ) { }",
+      "answer_3": "do { } while( )",
+      "answer_4": "All Is Right",
+      "right_answer": "All Is Right"
+    },
+    {
+      "title": "How can you add a comment in a JavaScript",
+      "answer_1": "<!-- Comment -->",
+      "answer_2": "// Comment",
+      "answer_3": "'This is A Comment",
+      "answer_4": "Nothing",
+      "right_answer": "// Comment"
+    }
+  ],
+  "CSS": [
+    {
+      "title": "أي مما يلي يحدد 1٪ من عرض الـ Viewport ؟",
+      "answer_1": "px",
+      "answer_2": "vw",
+      "answer_3": "%",
+      "answer_4": "vmin",
+      "right_answer": "vw"
+    },
+    {
+      "title": "المكان الأصح في ملف ال HTML لربط ملف CSS خارجي هو داخل وسم <.......>",
+      "answer_1": "Head",
+      "answer_2": "Body",
+      "answer_3": "Title",
+      "answer_4": "في نهاية الصفحة",
+      "right_answer": "Head"
+    },
+    {
+      "title": "أي من الخصائص التالية تُستخدم لتعيين لون خلفية العنصر؟",
+      "answer_1": "background-image",
+      "answer_2": "background-color",
+      "answer_3": "background-position",
+      "answer_4": "background-colors",
+      "right_answer": "background-color"
+    },
+    {
+      "title": "ماذا تعني كلمة CSS ؟",
+      "answer_1": "Creative Style Sheets",
+      "answer_2": "Coloring Style Sheets",
+      "answer_3": "Cascading Style Sheets",
+      "answer_4": "Nothing",
+      "right_answer": "Cascading Style Sheets"
+    },
+    {
+      "title": "أي خاصية من الخصائص التالية تُستخدم للتحكم في الخط الغامق 'bold' أو الفاتح 'light' ؟",
+      "answer_1": "font-family",
+      "answer_2": "font-size",
+      "answer_3": "font-weight",
+      "answer_4": "fonts",
+      "right_answer": "font-weight"
+    },
+    {
+      "title": "لانشاء زاوية مستديرة نستخدم خاصية ؟",
+      "answer_1": "border",
+      "answer_2": "border-radius",
+      "answer_3": "rounded",
+      "answer_4": "round-element",
+      "right_answer": "border-radius"
+    },
+    {
+      "title": "كيف يمكن عمل تعليق في ال CSS ?",
+      "answer_1": "/* */",
+      "answer_2": "//",
+      "answer_3": "/",
+      "answer_4": "''",
+      "right_answer": "/* */"
+    },
+    {
+      "title": "أي خاصية من الخصائص التالية تشير الى الروابط التي تمت زيارتها؟",
+      "answer_1": "link",
+      "answer_2": "visited",
+      "answer_3": "hover",
+      "answer_4": "active",
+      "right_answer": "visited"
+    },
+    {
+      "title": "لتغيير حجم صورة الخلفية نستخدم خاصية ؟",
+      "answer_1": "background-image",
+      "answer_2": "background-size",
+      "answer_3": "background-effect",
+      "answer_4": "background-color",
+      "right_answer": "background-size"
+    }
+  ],
+
+  "Quran": [
+    {
+      "title": "ما هي الصلاة التي يقوم فيها المصلي بالركوع والسجود أربع مرات؟ اقرأ المزيد على موقع رؤية ?",
+      "answer_1": "صلاة الكسوف والخسوف",
+      "answer_2": "صلاة الظهر",
+      "answer_3": "صلاة المغرب",
+      "answer_4": "لا شئ مما سبق",
+      "right_answer": "صلاة الكسوف والخسوف"
+    },
+    {
+      "title": "ما هي السورة التي ذكرت فيها البسملة مرتين؟",
+      "answer_1": "سورة الرحمن",
+      "answer_2": "سورة البقرة",
+      "answer_3": "سورة النمل",
+      "answer_4": "سورة الكهف",
+      "right_answer": "سورة النمل"
+    },
+    {
+      "title": "ما هو اسم خازن النار؟",
+      "answer_1": "رضوان",
+      "answer_2": "مالك",
+      "answer_3": "كلاهما",
+      "answer_4": "لا شئ مما سبق",
+      "right_answer": "مالك"
+    },
+    {
+      "title": "متى كانت غزوة الخندق؟",
+      "answer_1": "عام 4 هجريًا",
+      "answer_2": "عام 6 هجريًا",
+      "answer_3": "عام 7 هجريًا",
+      "answer_4": "عام 5 هجريًا",
+      "right_answer": "عام 5 هجريًا"
+    },
+    {
+      "title": "من هو أكبر أعمام النبي صلى الله عليه وسلم؟",
+      "answer_1": "حمزة بن عبد المطلب",
+      "answer_2": "الحارث بن عبد المطلب",
+      "answer_3": "علي بن عبد المطلب",
+      "answer_4": "اسماعيل بن عبد المطلب",
+      "right_answer": "الحارث بن عبد المطلب"
+    },
+    {
+      "title": "من هي ذات النطاقين ؟",
+      "answer_1": "اسماء بنت ابي بكر",
+      "answer_2": "السيدة هاجر",
+      "answer_3": "السيدة خديجة",
+      "answer_4": "السيدة عائشة",
+      "right_answer": "اسماء بنت ابي بكر"
+    },
+    {
+      "title": "كم عدد السنين التي نامها اكل الكهف ؟",
+      "answer_1": "310 عام",
+      "answer_2": "308 عام",
+      "answer_3": "309 عام",
+      "answer_4": "311 عام",
+      "right_answer": "309 عام"
+    },
+    {
+      "title": "من هيا اول امراة تزوجها الرسول بعد وفاة السيدة خديجة ؟",
+      "answer_1": "السيدة مريم",
+      "answer_2": "السيدة عائشة",
+      "answer_3": "السيدة سودة بنت زمعة",
+      "answer_4": "السيدة هاجر",
+      "right_answer": "السيدة سودة بنت زمعة"
+    },
+    {
+      "title": "من هو الصحابي التي كانت تستحي منه الملائكة ؟",
+      "answer_1": "سيدنا عمر بن الخطاب",
+      "answer_2": "سيدنا ابو بكر",
+      "answer_3": "سيدنا عثمان عليه السلام",
+      "answer_4": "سيدنا علي بن ابي طالب",
+      "right_answer": "سيدنا عثمان عليه السلام"
+    },
+    {
+      "title": "من اول من توفيت من بنات الرسول من بعده ؟",
+      "answer_1": "السيدة رقية",
+      "answer_2": "السيدة ام كلثوم",
+      "answer_3": "السيدة فاطمة",
+      "answer_4": "السيدة زينب",
+      "right_answer": "السيدة فاطمة"
+    },
+    {
+      "title": "كم عدد ابناء النبي محمد صلي الله عليه وسلم من الذكور ؟",
+      "answer_1": "4 ابناء",
+      "answer_2": "3 ابناء",
+      "answer_3": "5 ابناء",
+      "answer_4": "ولدين فقط",
+      "right_answer": "3 ابناء"
+    },
+    {
+      "title": "من هو اول ابناء سيدنا ادم عليه السلام ؟",
+      "answer_1": "هابيل",
+      "answer_2": "قابيل",
+      "answer_3": "اسماعيل",
+      "answer_4": "علي",
+      "right_answer": "قابيل"
+    },
+    {
+      "title": "من هو اول مؤذن في الاسلام ؟",
+      "answer_1": "ابو بكر الصديق",
+      "answer_2": "زيد بن حارس",
+      "answer_3": "سيدنا بلال بن رباح",
+      "answer_4": "معاوية",
+      "right_answer": "سيدنا بلال بن رباح"
+    }
+  ],
+  "Football": [
+    {
+      "title": "كم أسبوع في الدوري المصري ؟",
+      "answer_1": "38 اسبوع",
+      "answer_2": "34 اسبوع",
+      "answer_3": "35 اسبوع",
+      "answer_4": "33 اسبوع",
+      "right_answer": "34 اسبوع"
+    },
+    {
+      "title": "كم عدد أهداف عماد متعب في الدوري المصري؟",
+      "answer_1": "29 هدف",
+      "answer_2": "40 هدف",
+      "answer_3": "28 هدف",
+      "answer_4": "20 هدف",
+      "right_answer": "28 هدف"
+    },
+    {
+      "title": "كم مرة توقف الدوري المصرة ؟",
+      "answer_1": "10 مرات",
+      "answer_2": "11 مرة",
+      "answer_3": "12 مرة",
+      "answer_4": "لا شئ مما سبق",
+      "right_answer": "10 مرات"
+    },
+    {
+      "title": "كم عدد مباريات الدوري المصري ؟",
+      "answer_1": "310 مباراة",
+      "answer_2": "300 مباراة",
+      "answer_3": "301 مباراة",
+      "answer_4": "306 مباراة",
+      "right_answer": "306 مباراة"
+    },
+    {
+      "title": "كم مرة حصل الاهلي علي الدوري المصري ؟",
+      "answer_1": "42 مرة",
+      "answer_2": "43 مرة",
+      "answer_3": "41 مرة",
+      "answer_4": "44 مرة",
+      "right_answer": "41 مرة"
+    },
+    {
+      "title": "كم مرة حصل الزمالك علي الدوري المصري ؟",
+      "answer_1": "11 مرة",
+      "answer_2": "13 مرة",
+      "answer_3": "12 مرة",
+      "answer_4": "السادسة يا زمالك 😂😂",
+      "right_answer": "12 مرة"
+    },
+    {
+      "title": "من هداف الدوري المصري عبر التاريخ ؟",
+      "answer_1": "حسن الشاذلي",
+      "answer_2": "فلافيو",
+      "answer_3": "عماد متعب",
+      "answer_4": "سعيد كمونة",
+      "right_answer": "309 عام"
+    },
+    {
+      "title": "متي بدا الدوري المصري ؟",
+      "answer_1": "1950",
+      "answer_2": "1960",
+      "answer_3": "1930",
+      "answer_4": "1948",
+      "right_answer": "1948"
+    },
+    {
+      "title": "من اول فريق فاز بالدوري المصري ؟",
+      "answer_1": "الاهلي",
+      "answer_2": "الزمالك",
+      "answer_3": "الاسماعيلي",
+      "answer_4": "بتروجيت",
+      "right_answer": "الاهلي"
+    },
+    {
+      "title": "كم مره شارك الاهلي في دوري ابطال افريقيا ؟",
+      "answer_1": "31 مرة",
+      "answer_2": "32 مرة",
+      "answer_3": "30 مرة",
+      "answer_4": "35 مرة",
+      "right_answer": "31 مرة"
+    },
+    {
+      "title": "من صاحب هدف النادي الاهلي في مرمي الصفقاسي في نهائي افريقيا سنه 2006 ؟",
+      "answer_1": "محمد ناجي جدو",
+      "answer_2": "عماد متعب",
+      "answer_3": "محمد ابو تريكة",
+      "answer_4": "محمد بركات",
+      "right_answer": "محمد ابو تريكة"
+    },
+    {
+      "title": "كم مره واجه الاهلي الزمالك في دوري ابطال افريقيا ؟",
+      "answer_1": "5 مرات",
+      "answer_2": "6 مرات",
+      "answer_3": "4 مرات",
+      "answer_4": "مره واحدة",
+      "right_answer": "4 مرات"
+    },
+    {
+      "title": "اعظم نادي في العالم ؟",
+      "answer_1": "برشلونة 🥰",
+      "answer_2": "الاهلي ومتخترهوش",
+      "answer_3": "الزمالك",
+      "answer_4": "ريال مدريد ومتخترهاش",
+      "right_answer": "برشلونة 🥰"
+    }
+  ],
+  "Animal": [
+    {
+      "title": "ما هو الحيوان الذي لا يحترق في النار ؟",
+      "answer_1": "الخفاش",
+      "answer_2": "السمندل",
+      "answer_3": "الاسد",
+      "answer_4": "لا شئ مما سبق",
+      "right_answer": "السمندل"
+    },
+    {
+      "title": "ما هو اضخم حيوان في العالم من حيث الحجم ؟",
+      "answer_1": "الدوليفن",
+      "answer_2": "الحوت الازرق",
+      "answer_3": "الفيل",
+      "answer_4": "الزرافة",
+      "right_answer": "الحوت الازرق"
+    },
+    {
+      "title": "ما هو اسرع حيوان في العالم ؟",
+      "answer_1": "النمر",
+      "answer_2": "الفهد",
+      "answer_3": "الاسد",
+      "answer_4": "الخفاش",
+      "right_answer": "الفهد"
+    },
+    {
+      "title": "كم سنه يستطيع الحلزون النوم ؟",
+      "answer_1": "3 سنوات",
+      "answer_2": "سنتين",
+      "answer_3": "سنه واحدة",
+      "answer_4": "4 سنين",
+      "right_answer": "3 سنوات"
+    },
+    {
+      "title": "ما هو الطائر الذي تكلم ؟",
+      "answer_1": "هدهد",
+      "answer_2": "العصفور",
+      "answer_3": "الصقر",
+      "answer_4": "لا شئ مما سبق",
+      "right_answer": "هدهد"
+    },
+    {
+      "title": "ما هو الحيوان الذي اماته الله ثم احياه ؟",
+      "answer_1": "الفيل",
+      "answer_2": "حمار عزيز",
+      "answer_3": "العصفور",
+      "answer_4": "الارنب",
+      "right_answer": "حمار عزيز"
+    },
+    {
+      "title": "ما هو الحيوان الذي سجن نبي بامر من الله عز وجل ؟",
+      "answer_1": "الحوت",
+      "answer_2": "الاسد",
+      "answer_3": "الفيل",
+      "answer_4": "الدوليفن",
+      "right_answer": "الحوت"
+    },
+    {
+      "title": "ما هو الحيوان الذي ابطل السحر ؟",
+      "answer_1": "الثعبان",
+      "answer_2": "الارنب",
+      "answer_3": "الصقر",
+      "answer_4": "الاسد",
+      "right_answer": "الثعبان"
+    },
+    {
+      "title": "ما هو الحيوان الذي وصف وصفا كاملا في القران ؟",
+      "answer_1": "الاسد",
+      "answer_2": "الحوت",
+      "answer_3": "البقرة",
+      "answer_4": "الصقر",
+      "right_answer": "البقرة"
+    },
+    {
+      "title": "ما هي السورة التي سميت علي اسماء حيوانات ؟",
+      "answer_1": "البقرة",
+      "answer_2": "النحل",
+      "answer_3": "الفيل",
+      "answer_4": "كل ما سبق",
+      "right_answer": "كل ما سبق"
+    },
+    {
+      "title": "طائر رمز لسلام من هو ؟",
+      "answer_1": "الخفاش",
+      "answer_2": "الصقر",
+      "answer_3": "العصفور",
+      "answer_4": "الحمامة",
+      "right_answer": "الحمامة"
+    },
+    {
+      "title": "اي حيوان لديه اعلي ضغط دم ؟",
+      "answer_1": "الزرافة",
+      "answer_2": "الفيل",
+      "answer_3": "النمر",
+      "answer_4": "لا شئ مما سبق",
+      "right_answer": "الزرافة"
+    },
+    {
+      "title": "ما هو الحيوان الذي يعرف بالبهنس ؟",
+      "answer_1": "الاسد",
+      "answer_2": "الفيل",
+      "answer_3": "النمر",
+      "answer_4": "الفهد",
+      "right_answer": "الاسد"
+    }
+  ]
+}
