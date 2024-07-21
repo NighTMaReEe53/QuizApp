@@ -59,6 +59,7 @@ body {
     @media(max-width:767px) {
       width: auto;
       padding: 10px;
+      justify-content: center;
     }
 
     .box {
