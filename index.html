@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="CSS/all.min.css">
+  <link rel="stylesheet" href="CSS/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+    rel="stylesheet">
+  <title>Quizz App</title>
+</head>
+
+<body>
+
+
+  <div class="our-category">
+    <h2>Chossen Category You Want :</h2>
+    <div class="category">
+
+      <div class="box" data-category="HTML">
+        <img src="image/html.png" decoding="async" alt="">
+        <h2>HTML</h2>
+      </div>
+      <div class="box" data-category="CSS">
+        <img src="image/css.png" decoding="async" alt="">
+        <h2>CSS</h2>
+      </div>
+      <div class="box" data-category="Javascript">
+        <img src="image/js.png" decoding="async" alt="">
+        <h2>Javascript</h2>
+      </div>
+      <div class="box" data-category="Quran">
+        <img src="image/quran.png" decoding="async" alt="">
+        <h2>Quran</h2>
+      </div>
+      <div class="box" data-category="Football">
+        <img src="image/football.png" decoding="async" alt="">
+
+        <h2>Football</h2>
+      </div>
+      <div class="box" data-category="Animal">
+        <img src="image/animal.png" decoding="async" alt="">
+        <h2>Animal's</h2>
+      </div>
+
+
+    </div>
+
+  </div>
+
+
+  <div class="quiz-container">
+
+    <div class="quiz-info">
+
+      <div class="category">Category : <span class="name">HTML</span></div>
+
+      <div class="count-item">Question Count : <span class="count">10</span></div>
+
+    </div>
+
+    <div class="question-area"></div>
+
+    <div class="answer-area"></div>
+
+    <button class="submit-btn">Submit Answer</button>
+
+
+    <div class="count-down">
+      <div class="spans"></div>
+      <div class="timer">
+        <span class="min">02</span> : <span class="second">45</span>
+      </div>
+    </div>
+
+    <div class="result">
+
+    </div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+
+</html>
