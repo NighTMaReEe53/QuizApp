@@ -1,0 +1,74 @@
+[
+  {
+    "title": "أي مما يلي يحدد 1٪ من عرض الـ Viewport ؟",
+    "answer_1": "px",
+    "answer_2": "vw",
+    "answer_3": "%",
+    "answer_4": "vmin",
+    "right_answer": "vw"
+  },
+  {
+    "title": "المكان الأصح في ملف ال HTML لربط ملف CSS خارجي هو داخل وسم <.......>",
+    "answer_1": "Head",
+    "answer_2": "Body",
+    "answer_3": "Title",
+    "answer_4": "في نهاية الصفحة",
+    "right_answer": "Head"
+  },
+  {
+    "title": "أي من الخصائص التالية تُستخدم لتعيين لون خلفية العنصر؟",
+    "answer_1": "background-image",
+    "answer_2": "background-color",
+    "answer_3": "background-position",
+    "answer_4": "background-colors",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "ماذا تعني كلمة CSS ؟",
+    "answer_1": "Creative Style Sheets",
+    "answer_2": "Coloring Style Sheets",
+    "answer_3": "Cascading Style Sheets",
+    "answer_4": "Nothing",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "أي خاصية من الخصائص التالية تُستخدم للتحكم في الخط الغامق 'bold' أو الفاتح 'light' ؟",
+    "answer_1": "font-family",
+    "answer_2": "font-size",
+    "answer_3": "font-weight",
+    "answer_4": "fonts",
+    "right_answer": "font-weight"
+  },
+  {
+    "title": "لانشاء زاوية مستديرة نستخدم خاصية ؟",
+    "answer_1": "border",
+    "answer_2": "border-radius",
+    "answer_3": "rounded",
+    "answer_4": "round-element",
+    "right_answer": "border-radius"
+  },
+  {
+    "title": "كيف يمكن عمل تعليق في ال CSS ?",
+    "answer_1": "/* */",
+    "answer_2": "//",
+    "answer_3": "/",
+    "answer_4": "''",
+    "right_answer": "/* */"
+  },
+  {
+    "title": "أي خاصية من الخصائص التالية تشير الى الروابط التي تمت زيارتها؟",
+    "answer_1": "link",
+    "answer_2": "visited",
+    "answer_3": "hover",
+    "answer_4": "active",
+    "right_answer": "visited"
+  },
+  {
+    "title": "لتغيير حجم صورة الخلفية نستخدم خاصية ؟",
+    "answer_1": "background-image",
+    "answer_2": "background-size",
+    "answer_3": "background-effect",
+    "answer_4": "background-color",
+    "right_answer": "background-size"
+  }
+]

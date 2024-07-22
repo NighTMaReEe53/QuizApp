@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Inside which HTML element do we put the JavaScript",
+    "answer_1": "<js>",
+    "answer_2": "<scripting>",
+    "answer_3": "<javascript>",
+    "answer_4": "<script>",
+    "right_answer": "<script>"
+  },
+  {
+    "title": "Where is the correct place to insert a JavaScript ",
+    "answer_1": "The <body> Section",
+    "answer_2": "The <head> Section",
+    "answer_3": "Both The <body> And <head> Are Correct",
+    "answer_4": "Noting",
+    "right_answer": "Both The <body> And <head> Are Correct"
+  },
+  {
+    "title": "What is the correct syntax for referring to an external script called 'xxx.js' ",
+    "answer_1": "<script href='xxx.js'>",
+    "answer_2": "<script src='xxx.js'>",
+    "answer_3": "<script name='xxx.js'>",
+    "answer_4": "<script 'xxx.js'",
+    "right_answer": "<script src='xxx.js'>"
+  },
+  {
+    "title": "How do you write 'Hello World' in an alert box",
+    "answer_1": "msg('Hello World')",
+    "answer_2": "prompet('Hello World')",
+    "answer_3": "confirm('Hello World')",
+    "answer_4": "alert('Hello World')",
+    "right_answer": "alert('Hello World')"
+  },
+  {
+    "title": "How do you create a function in JavaScript ",
+    "answer_1": "function nameFunction( ) { }",
+    "answer_2": "function = function( )",
+    "answer_3": "function:myFunction( ) { }",
+    "answer_4": "function( ) = function { }",
+    "right_answer": "function nameFunction( ) { }"
+  },
+  {
+    "title": "How do you call a function named 'myFunction'",
+    "answer_1": "call function myFunction()",
+    "answer_2": "myFunction( )",
+    "answer_3": "call myFunction( )",
+    "answer_4": "Noting",
+    "right_answer": "myFunction( )"
+  },
+  {
+    "title": "How to write an IF statement in JavaScript",
+    "answer_1": "if ( ) [ ]",
+    "answer_2": "if ( ) { }",
+    "answer_3": "( ) => { }",
+    "answer_4": "if { ( ) }",
+    "right_answer": "if ( ) { }"
+  },
+  {
+    "title": "Which One We Can Use it For Looping ",
+    "answer_1": "for ( ) { }",
+    "answer_2": "while( ) { }",
+    "answer_3": "do { } while( )",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  },
+  {
+    "title": "How can you add a comment in a JavaScript",
+    "answer_1": "<!-- Comment -->",
+    "answer_2": "// Comment",
+    "answer_3": "'This is A Comment",
+    "answer_4": "Nothing",
+    "right_answer": "// Comment"
+  }
+]
