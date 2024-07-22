@@ -54,7 +54,7 @@ function getDataFromClicking(data) {
 
       // countDown
 
-      countDown(120, maxLength);
+      countDown(60, maxLength);
 
       // BTN
       theBtn.addEventListener("click", () => {
@@ -69,7 +69,7 @@ function getDataFromClicking(data) {
         finalForm(maxLength);
         clearInterval(interVal);
         // countDown
-        countDown(120, maxLength);
+        countDown(60, maxLength);
       });
     }
   };
@@ -233,6 +233,7 @@ function countDown(duration, maxLength) {
       containerTimer.innerHTML = `${minute} : ${second}`;
 
       if (--duration === 0) {
+        theBtn.click();
         clearInterval(interVal);
       }
     }, 1000);
